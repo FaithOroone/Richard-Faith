@@ -1,4 +1,12 @@
 
+body{
+  width: 100%;
+  text-align: center;   
+}
+
+
+
+
 #image {
     max-width: 100%;
     display: block; 
